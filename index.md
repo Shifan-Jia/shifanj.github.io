@@ -5,7 +5,7 @@
 <meta name="robots" content="index, follow" />
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta name="keywords" content="Qiang Zhang, 张强, Remote Sensing, Image Processing, Deep Learning, Denoising, Cloud Removal, Hyperspecral, Wuhan University">
+<meta name="keywords" content="Shifan Jia>
 <link rel="stylesheet" href="./Files/jemdoc.css" type="text/css" />
 <script src="jquery.min.js"></script>
 <link rel="shortcut icon" href="./Files/favicon.ico">
@@ -21,25 +21,20 @@
 
 <table class="imgtable"><tr><td>
 <a href="./"><img src="./Files/zq_photo_square.jpg" alt="" height="215px" /></a>&nbsp;</td>
-<td align="left"><p><a href="./"><font size="4">Qiang Zhang (</font><font size="4"; font style="font-family:Microsoft YaHei">张 强</font><font size="4">)</font></a><br />
-<i>Ph.D Candidate </i>
-<br /><br />
-<a href="http://www.lmars.whu.edu.cn/" target="_blank">State Key Laboratory of Information Engineering, Survey Mapping and Remote Sensing (LIESMARS)</a><br />
-<a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a><br />
+<td align="left"><p><a href="./"><font size="4">Shifan Jia</font></a><br />
 <br />
-Location: Building 39-Room 105, Luoyu Road #129, Hongshan District, Wuhan, Hubei, China<br />
+Location: Building 39-Room 105, Luoyu Road #129, Xincheng District, Xi'an, ShaanXi, China<br />
 <class="staffshortcut">
- <A HREF="#News">News</A> | 
- <A HREF="#Interest">Research Interest</A> | 
  <A HREF="#Education">Education</A> | 
- <A HREF="#Publications">Publications</A> | 
- <A HREF="#Projects">Projects</A> | 
- <A HREF="#Services">Services</A> | 
+ <A HREF="#Courseworks">Courseworks</A> | 
+ <A HREF="#Research Experience">Research Experience</A> | 
+ <A HREF="#Professional Experience">Professional Experience</A> | 
+ <A HREF="#Technical Skills">Technical Skills</A> | 
  <A HREF="#Awards">Awards</A>
 <br />
 <br />
  
-Email: whuqzhang@gmail.com (prior); &nbsp;&nbsp;&nbsp;&nbsp; zhang_qiang@whu.edu.cn <br />
+Email: shifanj@gwmail.gwu.edu; &nbsp;&nbsp;&nbsp;&nbsp; zhang_qiang@whu.edu.cn <br />
 [<a href="https://scholar.google.com/citations?user=Hb6OKF0AAAAJ&hl=en" target="_blank">Google Scholar</a>] 
 [<a href="https://github.com/qzhang95" target="_blank">GitHub</a>] 
 [<a href="https://www.researchgate.net/profile/Qiang-Zhang-147" target="_blank">ResearchGate</a>] 
@@ -49,29 +44,6 @@ Email: whuqzhang@gmail.com (prior); &nbsp;&nbsp;&nbsp;&nbsp; zhang_qiang@whu.edu
 [<a href="./Files/CV.pdf" target="_blank"><font style="font-family:Microsoft YaHei">中文简历</font></a>]
 </td></tr></table>
 
-
-
-
-<A NAME="News"><h2>News</h2></A>
-<ul>
-<li> <b> <font color="#FF0000">[2020.08]</font> </b> Our <b>HSI Denoising Dataset V2.0</b> is released (<a href= "https://drive.google.com/file/d/1mZ_dsfrZ_lQiDwe4__Lmaf5GIpXesPf5/view?usp=sharing" target="_blank">dataset</a>)!</li>
-<li> <b> <font color="#FF0000">[2021.07]</font> </b> Served as a <b>Session Chair</b> of IGARSS 2021 (<a href= "https://igarss2021.com/view_session.php?SessionID=1105" target="_blank">Session: Image Restoration</a>)!</li>
-<li> <b> <font color="#FF0000">[2021.06]</font> </b> Awarded with <b>Li Xiaowen Remote Sensing Young Scholar Prize</b> (<a href="https://geo.bnu.edu.cn/tzgg/115241.html" target="_blank"><font style="font-family:Microsoft YaHei">李小文遥感科学青年奖</font></a>)!</li>
-<li> <b> <font color="#FF0000">[2021.05]</font> </b> One paper is accepted by <b>ISPRS P&RS</b> (<a href="https://www.sciencedirect.com/science/article/pii/S0924271621001258" target="_blank">link</a>, <a href="https://drive.google.com/file/d/1LlvUKtUWAKoF6R0igbREwvP2Wfja9UBv/view?usp=sharing" target="_blank">dataset</a>)!</li>
-<li> <b> <font color="#FF0000">[2021.04]</font> </b> One paper is accepted by <b>Earth System Science Data</b> (<a href= "https://essd.copernicus.org/articles/13/1385/2021/" target="_blank">link</a>, <a href= "https://doi.org/10.5281/zenodo.4417458" target="_blank">dataset</a>, <a href= "https://github.com/qzhang95/SGD-SM" target="_blank">code</a>)!</li>
-<li> <b> <font color="#FF0000">[2021.03]</font> </b> One paper is accepted as an <b>Oral Presentation</b> by IGARSS 2021!</li>
-<li> <b> <font color="#FF0000">[2020.12]</font> </b> Awarded with <b>"Wang Zhizhuo Innovation Talent" Outstanding Prize</b> (<a href="http://rsgis.whu.edu.cn/index.php?m=content&c=index&a=show&catid=123&id=7249" target="_blank"><font style="font-family:Microsoft YaHei">“王之卓创新人才奖”特等奖</font></a>)!</li>
-<li> <b> <font color="#FF0000">[2020.11]</font> </b> Awarded with <b>The Star of Self-improvement in Chinese College Students</b> (<a href="https://news.whu.edu.cn/info/1007/62905.htm" target="_blank"><font style="font-family:Microsoft YaHei">中国大学生自强之星</font></a>)!</li>
-<li> <b> <font color="#FF0000">[2020.10]</font> </b> Our <b>Multi-Temporal Full Width Sentinel-2 Cloud Detection and Removal Dataset</b> is released (<a href= "https://drive.google.com/file/d/1LlvUKtUWAKoF6R0igbREwvP2Wfja9UBv/view?usp=sharing" target="_blank">dataset</a>)!</li>
-<li> <b> <font color="#FF0000">[2020.09]</font> </b> Awarded with <b>Graduate Academic Innovation Outstanding Prize</b> (<a href="https://news.whu.edu.cn/info/1007/63207.htm" target="_blank"><font style="font-family:Microsoft YaHei">武汉大学“研究生学术创新奖”特等奖</font></a>)!</li>
-<li> <b> <font color="#FF0000">[2020.08]</font> </b> Our <b>SGD-SM Products</b> are released (<a href= "https://github.com/qzhang95/SGD-SM" target="_blank">code</a>, <a href= "https://doi.org/10.5281/zenodo.4417458" target="_blank">dataset</a>)!</li>
-<li> <b> <font color="#FF0000">[2020.06]</font> </b> Our <b>HSI Denoising Dataset</b> is released (<a href= "https://wwa.lanzoui.com/iNjl9dna1vi" target="_blank">dataset</a>)!</li>
-<li> <b> <font color="#FF0000">[2020.05]</font> </b> Invited as a reporter for <b>GeoScience Café</b> (<a href= "./Files/张强_Geoscience Cafe254期.pdf" target="_blank">slides</a>)!</li>
-<li> <b> <font color="#FF0000">[2020.04]</font> </b> One paper is accepted by <b>ISPRS P&RS</b> (<a href="https://www.sciencedirect.com/science/article/pii/S0924271620301076" target="_blank">link</a>)!</li>
-<li> <b> <font color="#FF0000">[2020.03]</font> </b> One paper is accepted as an <b>Oral Presentation</b> by IGARSS 2020 (<a href="https://www.igarss2020.org/view_session.php?SessionID=1114" target="_blank">session</a>, <a href="./Files/Qiang Zhang_Slides_IGARSS2020.pdf" target="_blank">slides</a>)!</li>
-<li> <b> <font color="#FF0000">[2020.02]</font> </b> One paper is accepted by <b>ISPRS P&RS</b> (<a href="https://www.sciencedirect.com/science/article/pii/S0924271620300423" target="_blank">link</a>, <a href="https://github.com/qzhang95/PSTCR" target="_blank">code</a>)!</li>
-</ul>
-<br />
 
 
  
@@ -91,8 +63,7 @@ I work in the field of remote sensing image quality improvement, low-level visio
  
 <A NAME="Education"><h2>Education</h2></A>
 <ul>
-<li>2019.09-2022.06 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D in <a href="http://www.lmars.whu.edu.cn/" target="_blank">LIESMARS</a>, <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. <a href="http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html" target="_blank">Liangpei Zhang</a> & <a href="http://qqyuan.users.sgg.whu.edu.cn/" target="_blank">Qiangqiang Yuan</a></li>
-<li>2017.09-2019.06 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.E. in <a href="http://main.sgg.whu.edu.cn/" target="_blank">School of Geodesy and Geomatics</a>, <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. <a href="http://qqyuan.users.sgg.whu.edu.cn/" target="_blank">Qiangqiang Yuan</a></li>
+<li>2019.08-2020.01 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.S. in <a href="https://statistics.columbian.gwu.edu/" target="_blank">Statistics</a>, <a href="https://www.gwu.edu/" target="_blank">George Washington University</a>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. <a href="https://statistics.columbian.gwu.edu/qing-pan" target="_blank">Qing Pan</a></li>
 <li>2013.09-2017.06 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.E. in <a href="http://main.sgg.whu.edu.cn/" target="_blank">School of Geodesy and Geomatics</a>, <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. <a href="http://qqyuan.users.sgg.whu.edu.cn/" target="_blank">Qiangqiang Yuan</a></li>
 </ul>
 <br />
@@ -100,120 +71,18 @@ I work in the field of remote sensing image quality improvement, low-level visio
  
 
 
-<A NAME="Publications"><h2>Publications</h2></A>
-<p><b>Journals</b>: </p>
+<A NAME="Courseworks"><h2>Courseworks</h2></A>
 <font size="3"> 
 <ul>
  
-<p style="text-indent: -1.6rem;margin-left: 0rem;">
-<span>[8] <b>Q. Zhang</b>, Q. Yuan, J. Li, Y. Wang, F. Sun, and L. Zhang, 
-“Generating seamless global daily AMSR2 soil moisture (SGD-SM) long-term products for the years 2013-2019,” 
-<i>Earth System Science Data (<b>ESSD</b>)</i>, 
-vol. 13, pp. 1385-1401, 2021. 
-(<b>SCI Q1 Top, IF=11.333</b>) 
-[<a href= "https://essd.copernicus.org/articles/13/1385/2021/" target="_blank">Link</a>] 
-[<a href= "./Files/ESSD_2021_SGD-SM.pdf" target="_blank">PDF</a>] 
-[<a href= "https://qzhang95.github.io/Projects/Global-Daily-Seamless-AMSR2/" target="_blank">Project</a>]
-[<a href= "https://doi.org/10.5281/zenodo.4417458" target="_blank">Dataset</a>]
-[<a href="https://github.com/qzhang95/SGD-SM" target="_blank">Code</a>]
-[<a href="./Files/BibTex.html#zhang2021_SGDSM" target="_blank">BibTeX</a>]
-</span>
-</p>
- 
-<p style="text-indent: -1.6rem;margin-left: 0rem;">
-<span>[7] <b>Q. Zhang</b>, Q. Yuan, Z. Li, F. Sun, and L. Zhang, 
-“Combined deep prior with low-rank tensor SVD for thick cloud removal in multitemporal images,” 
-<i>ISPRS Journal of Photogrammetry and Remote Sensing (<b>ISPRS P&RS</b>)</i>,  
-vol. 177, pp. 161-173, 2021. 
-(<b>SCI Q1 Top, IF=8.979</b>)
-[<a href= "https://www.sciencedirect.com/science/article/pii/S0924271621001258" target="_blank">Link</a>] 
-[<a href= "https://wwa.lanzoui.com/if3Brpelk4j" target="_blank">PDF</a>] 
-[<a href= "https://drive.google.com/file/d/1LlvUKtUWAKoF6R0igbREwvP2Wfja9UBv/view?usp=sharing" target="_blank">Dataset</a>]
-[<a href="./Files/BibTex.html#zhang2021_DPLRTSVD" target="_blank">BibTeX</a>]
-</span>
-</p>
- 
-<p style="text-indent: -1.6rem;margin-left: 0rem;">
-<span>[6] <b>Q. Zhang</b>, Q. Yuan, J. Li, F. Sun, and L. Zhang, 
-“Deep spatio-spectral Bayesian posterior for hyperspectral image non-i.i.d. noise removal,” 
-<i>ISPRS Journal of Photogrammetry and Remote Sensing (<b>ISPRS P&RS</b>)</i>, 
-vol. 164, pp. 125-137, 2020. 
-(<b>SCI Q1 Top, IF=8.979</b>) 
-[<a href= "https://www.sciencedirect.com/science/article/pii/S0924271620301076" target="_blank">Link</a>] 
-[<a href= "./Files/ISPRS_2020_DSSBP.pdf" target="_blank">PDF</a>] 
-[<a href= "https://drive.google.com/file/d/1mZ_dsfrZ_lQiDwe4__Lmaf5GIpXesPf5/view?usp=sharing" target="_blank">Dataset</a>]
-[<a href="./Files/BibTex.html#zhang2020_DSSBP" target="_blank">BibTeX</a>]
-</span>
-</p>
-
-<p style="text-indent: -1.6rem;margin-left: 0rem;">
-<span>[5] <b>Q. Zhang</b>, Q. Yuan, J. Li, Z. Li, H. Shen, and L. Zhang, 
-“Thick cloud and cloud shadow removal in multitemporal images using progressively spatio-temporal patch group deep learning,” 
-<i>ISPRS Journal of Photogrammetry and Remote Sensing (<b>ISPRS P&RS</b>)</i>, 
-vol. 162, pp. 148-160, 2020. 
-(<b>SCI Q1 Top, IF=8.979</b>) 
-[<a href= "https://www.sciencedirect.com/science/article/pii/S0924271620300423" target="_blank">Link</a>] 
-[<a href= "./Files/ISPRS_2020_PSTCR.pdf" target="_blank">PDF</a>] 
-[<a href="https://github.com/qzhang95/PSTCR" target="_blank">Code</a>]
-[<a href= "https://drive.google.com/file/d/1LlvUKtUWAKoF6R0igbREwvP2Wfja9UBv/view?usp=sharing" target="_blank">Dataset</a>]
-[<a href="./Files/BibTex.html#zhang2020_PSTCR" target="_blank">BibTeX</a>]
-</span>
-</p>
-
-<p style="text-indent: -1.6rem;margin-left: 0rem;">
-<span>[4] <b>Q. Zhang</b>, Q. Yuan, J. Li, X. Liu, H. Shen, and L. Zhang, 
-“Hybrid noise removal in hyperspectral imagery with spatial-spectral gradient network,” 
-<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
-vol. 57, no. 10, pp. 7317-7329, 2019. 
-(<b>SCI Q1 Top, IF=5.6</b>) 
-[<a href= "https://ieeexplore.ieee.org/document/8734833" target="_blank">Link</a>] 
-[<a href= "./Files/TGRS_2019_SSGN.pdf" target="_blank">PDF</a>]
-[<a href= "https://drive.google.com/file/d/1mZ_dsfrZ_lQiDwe4__Lmaf5GIpXesPf5/view?usp=sharing" target="_blank">Dataset</a>]
-[<a href="./Files/BibTex.html#zhang2019_SSGN" target="_blank">BibTeX</a>]
-</span>
-</p>
-
-<p style="text-indent: -1.6rem;margin-left: 0rem;">
-<span>[3] <b>Q. Zhang</b>, Q. Yuan, C. Zeng, X. Li, and Y. Wei, 
-“Missing data reconstruction in remote sensing image with a unified spatial-temporal-spectral deep convolutional neural network,” 
-<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
-vol. 56, no. 8, pp. 4274-4288, 2018. 
-(<b>SCI Q1 Top, IF=5.6, <font color="#FF0000">ESI Highly Cited Paper</font></b>) 
-[<a href= "https://ieeexplore.ieee.org/document/8316243" target="_blank">Link</a>] 
-[<a href= "./Files/TGRS_2018_STS-CNN.pdf" target="_blank">PDF</a>] 
-[<a href="https://github.com/qzhang95/STS-CNN" target="_blank">Code</a>] 
-[<a href="./Files/BibTex.html#zhang2018_STS" target="_blank">BibTeX</a>] 
-[Citations: <b>160</b>+]
-</span>
-</p>
-
-<p style="text-indent: -1.6rem;margin-left: 0rem;">
-<span>[2] <b>Q. Zhang</b>, Q. Yuan, J. Li, Z. Yang, and X. Ma, 
-“Learning a dilated residual network for SAR image despeckling,” 
-<i>Remote Sensing (<b>RS</b>)</i>, 
-vol. 10, no. 2, 196, 2018. 
-(<b>SCI Q2, IF=4.848</b>) 
-[<a href= "https://www.mdpi.com/2072-4292/10/2/196" target="_blank">Link</a>] 
-[<a href= "qzhang95.github.io/Files/RS_2018_SAR-DRN.pdf" target="_blank">PDF</a>]
-[<a href="./Files/BibTex.html#zhang2018_SAR" target="_blank">BibTeX</a>]
-</span>
-</p>
-
-<p style="text-indent: -1.6rem;margin-left: 0rem;">
-<span>[1] Q. Yuan, <b>Q. Zhang</b>, J. Li, H. Shen, and L. Zhang, 
-“Hyperspectral image denoising employing a spatial-spectral deep residual convolutional neural network,” 
-<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
-vol. 57, no. 2, pp. 1205-1218, 2019. 
-(<b>SCI Q1 Top, IF=5.6, <font color="#FF0000">ESI Highly Cited Paper</font></b>) 
-[<a href= "https://ieeexplore.ieee.org/document/8454887" target="_blank">Link</a>] 
-[<a href= "./Files/TGRS_2019_HSID-CNN.pdf" target="_blank">PDF</a>] 
-[<a href="https://github.com/qzhang95/HSID-CNN" target="_blank">Code</a>] 
-[<a href= "https://drive.google.com/file/d/1mZ_dsfrZ_lQiDwe4__Lmaf5GIpXesPf5/view?usp=sharing" target="_blank">Dataset</a>] 
-[<a href="./Files/BibTex.html#yuan2019_HSID" target="_blank">BibTeX</a>] 
-[Citations: <b>160</b>+]
-</span>
-</p>
+<li> Mathematical Analysis</li> &nbsp;&nbsp;&nbsp; <li> Survival Analysis</li>
+<li> Data Mining</li>
+<li>Advanced Time-series</li>
+<li>Hyperspectral image denoising and restoration</li>
+<li>Tensor factorization and deep learning</li>
 </ul>
+ 
+
 </font>
 <br />
 <br />
